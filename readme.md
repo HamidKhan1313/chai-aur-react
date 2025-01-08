@@ -8,3 +8,7 @@
   react scripts loads index.html in project
   cd vite-project
   in index.html it directly load the js with src="/src/main.jsx"
+  npm run dev ---> for run vite project
+  in vite file name in script is written with ---> jsx
+  one element ony writen in jsx example --> <Chai/>
+  in many tags we can return it with <> </> known as ---> frigment 
